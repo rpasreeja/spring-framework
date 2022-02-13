@@ -1,4 +1,4 @@
 public class Hello {
 
-    //this is sample work
+    // code goes here
 }
